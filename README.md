@@ -44,7 +44,8 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
-![Uploading image.png…]()
++532![image](https://github.com/Nethraa24/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/121215786/5e88406d-6cce-4f26-8da1-2ff606b0c11f)
+
 
 
 ### Name: J.NETHRAA
